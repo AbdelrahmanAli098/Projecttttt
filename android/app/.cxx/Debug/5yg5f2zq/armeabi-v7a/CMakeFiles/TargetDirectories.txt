@@ -1,0 +1,2 @@
+C:/Users/Abdelrahman Ali/Development/sightline/android/app/.cxx/Debug/5yg5f2zq/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Abdelrahman Ali/Development/sightline/android/app/.cxx/Debug/5yg5f2zq/armeabi-v7a/CMakeFiles/rebuild_cache.dir
